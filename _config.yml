@@ -1,0 +1,8 @@
+title: Creative Development Laboratory
+description: 
+google_analytics: UA-69244521-1
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
