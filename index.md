@@ -1,6 +1,6 @@
-### Welcome to Credevlabz.
-Credevlabz is a Creative Development Laboratory that aims to implement new ideas with every venture. 
-We, at Credevlabz, develop websites for a better experience for the users. We strive to work with the 
+### Welcome to Credevlab.
+Credevlab is a Creative Development Laboratory that aims to implement new ideas with every venture. 
+We, at Credevlab, develop websites for a better experience for the users. We strive to work with the 
 latest technologies available and implement new ideas to explore every new dimension in web 
 technology. The internet technology is as wide as anyone can imagine. A number of services, 
 technologies and solutions are still unexplored, lying safely behind closed doors. Our focus is to knock 
